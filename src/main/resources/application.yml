@@ -1,0 +1,9 @@
+server:
+  port: 8004
+
+route-adapter:
+  url: http://em23-routes-adapter:8002
+
+branches:
+  url: http://em23-branches:8003
+  limit: 3

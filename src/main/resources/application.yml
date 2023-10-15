@@ -7,3 +7,7 @@ route-adapter:
 branches:
   url: http://em23-branches:8003
   limit: 3
+
+
+springdoc:
+  api-docs.path: /routes/api-docs
